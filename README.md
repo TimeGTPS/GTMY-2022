@@ -8,9 +8,9 @@ https://cdn.discordapp.com/attachments/1015919810414125137/1019842943093313596/S
 
 
 [Updates]
-- rift cape and wings
+- Rift cape and wings
 - Bandoiler
 - Dye/Eye colour
-- achievements
+- Achievements
 
 Anything u can just contact me on discord Time#1337
