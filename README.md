@@ -17,4 +17,9 @@ This source is base as gtps3 but updated way more from the leaked gtps3. sundei#
 - Guild mascot changer (level 3 guild and above)
 - Guild upgrade option
 
+
+[Dpp error fix]
+- https://dpp.dev/
+
+
 Anything u can just contact me on discord Time#1337
