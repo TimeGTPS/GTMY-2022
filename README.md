@@ -22,4 +22,4 @@ This source is base as gtps3 but updated way more from the leaked gtps3. sundei#
 - https://dpp.dev/
 
 
-Anything u can just contact me on discord Time#1337
+Anything u can just contact me on discord Time#6072
